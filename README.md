@@ -42,7 +42,7 @@ Run the entire application stack (Database + Express API + React served via Ngin
 
 1. Clone the repository and create the root environment file:
    ```bash
-   git clone https://github.com/YourUsername/snippet-manager.git
+   git clone https://github.com/MaxSien/snippet-manager-pub.git
    cd snippet-manager
    ```
 
