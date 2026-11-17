@@ -1,7 +1,6 @@
 # ⚡ Command Snippet Manager
 
 **Author:** Maksymilian Sienkiewicz
-**Role:** Full-Stack / Front-end Developer
 
 A modern, fast, and containerized Full-Stack web application designed to store, organize, and quickly retrieve your daily developer terminal commands and code snippets. Built with a dark-mode focused UI, instant copy-to-clipboard functionality, category color-coding, pattern search, and server-side pagination.
 
